@@ -1,0 +1,19 @@
+.zippy{
+    text-align: left;
+    font-size: bold;
+}
+.heading{
+    width: 50%;
+    height: 30px;
+    border: 1px solid wheat; 
+}
+.body{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 70px;
+}
+.glyphicon { 
+    float: right;
+    color: black;
+    background-color: yellow;
+}
